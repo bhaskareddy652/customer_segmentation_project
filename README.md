@@ -10,6 +10,7 @@ This project involves three main tasks:
 Exploratory Data Analysis (EDA) and Business Insights
 Lookalike Model
 Customer Segmentation / Clustering
+
 --------------------------------------------------------------------------------------------
 The dataset used consists of three CSV files:
 
