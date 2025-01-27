@@ -7,9 +7,9 @@ This repository contains the code and analysis for customer segmentation and bui
 **Project Overview**
 This project involves three main tasks:
 
-Exploratory Data Analysis (EDA) and Business Insights
-Lookalike Model
-Customer Segmentation / Clustering
+1.Exploratory Data Analysis (EDA) and Business Insights
+2.Lookalike Model
+3.Customer Segmentation / Clustering
 
 --------------------------------------------------------------------------------------------
 The dataset used consists of three CSV files:
