@@ -49,8 +49,13 @@ Dependencies
 To run this project, make sure you have the following Python packages installed:
 
 pandas
+
 numpy
+
 scikit-learn
+
 seaborn
+
 matplotlib
+
 scipy
